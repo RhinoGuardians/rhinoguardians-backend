@@ -1,0 +1,157 @@
+# 🐍 Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+*.manifest
+*.spec
+
+# 📦 Virtual Environment
+venv/
+ENV/
+env/
+.venv/
+
+# 🔐 Environment Variables
+.env
+.env.*
+
+# 📄 Logs & Coverage
+*.log
+*.out
+*.coverage
+coverage.xml
+htmlcov/
+.cache/
+pytest_cache/
+
+# 📸 Model & Media Artifacts
+*.pt
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.gif
+*.tiff
+
+# 🧪 Test Artifacts
+tests/__pycache__/
+*.sqlite3
+*.db
+
+# 🔧 GitHub
+.github/
+
+# 🐳 Docker
+*.dockerfile
+Dockerfile
+docker-compose.yml
+*.tar
+*.gz
+
+# 📚 IDE & Editor Configs
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# 📦 Package Lock Files
+Pipfile.lock
+poetry.lock
+
+# 🔍 Misc
+# 🐍 Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+*.manifest
+*.spec
+
+# 📦 Virtual Environment
+venv/
+ENV/
+env/
+.venv/
+
+# 🔐 Environment Variables
+.env
+.env.*
+.envrc
+
+# 📄 Logs & Coverage
+*.log
+*.out
+*.coverage
+coverage.xml
+htmlcov/
+.cache/
+pytest_cache/
+
+# 📸 Model & Media Artifacts
+*.pt
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.gif
+*.tiff
+
+# 🧪 Test Artifacts
+tests/__pycache__/
+*.sqlite3
+*.db
+detections.db
+
+# 🔧 GitHub
+.github/
+
+# 🐳 Docker
+*.dockerfile
+Dockerfile
+docker-compose.yml
+*.tar
+*.gz
+
+# 📚 IDE & Editor Configs
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# 📦 Package Lock Files
+Pipfile.lock
+poetry.lock
+
+# 🔍 Misc
+*.DS_Store
+*.orig
+*.rej
+
+# Migration cache
+migrations/__pycache__/
+migrations/*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/*DS_Store
+*.orig
+*.rej
+
+# Build/config artifacts
+rhinoguardians_backend.egg-info/
+pyproject.toml
+pytest.ini
